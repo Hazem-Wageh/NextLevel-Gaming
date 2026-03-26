@@ -35,7 +35,7 @@ The project provides a dynamic and engaging user interface for browsing and expl
 ---
 
 ## 🔗 Live Demo
-👉 [View Live Demo](https://yourusername.github.io/GameVerse/)
+👉 [View Live Demo]( https://hazem-wageh.github.io/NextLevel-Gaming/)
 
 ---
 
